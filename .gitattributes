@@ -1,1 +1,6 @@
 * binary
+CAD/chassis/chassis[[:space:]]asm[[:space:]]-[[:space:]]simple.SLDASM filter=lfs diff=lfs merge=lfs -text
+CAD/chassis/chassis[[:space:]]asm.SLDASM filter=lfs diff=lfs merge=lfs -text
+CAD/DECODE™[[:space:]]presented[[:space:]]by[[:space:]]RTX[[:space:]]Full[[:space:]]Field[[:space:]]-[[:space:]]am-5700_Full.SLDPRT filter=lfs diff=lfs merge=lfs -text
+CAD/robot[[:space:]]on[[:space:]]field.SLDASM filter=lfs diff=lfs merge=lfs -text
+CAD/shooter/shooter[[:space:]]assm.zip filter=lfs diff=lfs merge=lfs -text
